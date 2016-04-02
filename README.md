@@ -1,2 +1,2 @@
 # Python
-联系python
+study python
